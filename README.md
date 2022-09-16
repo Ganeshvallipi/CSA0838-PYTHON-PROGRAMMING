@@ -26,4 +26,15 @@ transaction profit,
 two binary strings,
 valid numbers,
 water container,
-sorted
+sorted,
+words and spaces
+salary
+square numbers
+little robert
+peak element
+traingular array
+repeating characters
+matrix
+shuffle
+reverse word
+
