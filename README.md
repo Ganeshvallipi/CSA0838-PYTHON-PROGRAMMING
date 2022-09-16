@@ -27,14 +27,15 @@ two binary strings,
 valid numbers,
 water container,
 sorted,
-words and spaces
-salary
-square numbers
-little robert
-peak element
-traingular array
-repeating characters
-matrix
-shuffle
-reverse word
+words and spaces,
+salary,
+square numbers,
+little robert,
+peak element,
+traingular array,
+repeating characters,
+matrix,
+shuffle,
+reverse word,
+fizz buzz,
 
